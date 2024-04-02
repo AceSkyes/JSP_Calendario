@@ -13,7 +13,6 @@
 int a = Integer.parseInt(request.getParameter("n1"));
 int b = Integer.parseInt(request.getParameter("n2"));
 int c = 1;
-int[] dias;
 LocalDate tempo = LocalDate.of(b,a,c);
 
 
